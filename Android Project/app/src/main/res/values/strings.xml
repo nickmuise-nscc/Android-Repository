@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BasicAndroidApp</string>
+    <string name="hello_word">Hello World</string>
+    <string name="text_view_intro">I am a Text View. A Text View is how you display text in an Android application.</string>
+    <string name="change_robot">Change Robot Color</string>
+</resources>
